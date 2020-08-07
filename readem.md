@@ -79,4 +79,5 @@
 ## git merge 分支名
 1. 合并分支
 
-## git branch d
+## git branch -d 分支名
+1. 删除分支
