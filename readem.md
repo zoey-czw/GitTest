@@ -49,7 +49,7 @@
 ## 远程仓库
 
 ## git remote add origin 仓库地址
-<<<<<<< HEAD
+
 1. 把本地仓库与远程仓库相连接
 
 ## git remote -v
@@ -73,6 +73,8 @@
 ## git branch 分支名
 1. 创建分支
 
-## git checkout 分知名
+## git checkout 分支名
 1. 切换分支
 
+## git merge 分支名
+1. 合并分支
