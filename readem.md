@@ -81,3 +81,6 @@
 
 ## git branch -d 分支名
 1. 删除分支
+
+## git push origin 分支名 
+1. 提交其他分支到远程仓库
