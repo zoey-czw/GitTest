@@ -88,6 +88,9 @@
 ## git push origin 分支名 
 1. 提交其他分支到远程仓库
 
+## git pull origin 分支名 
+1. 更新某个远程分支到本地
+
 ## 配置秘钥
 1. 生成秘钥ssh-keygen -t rsa -C '个人邮箱'
 
